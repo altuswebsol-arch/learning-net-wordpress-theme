@@ -1,0 +1,2513 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Learning Net Demo Content</title>
+  <link>https://thelearningnet.org</link>
+  <description>One Click Demo Import content for the Learning Net theme.</description>
+  <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+  <language>en-GB</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://thelearningnet.org</wp:base_site_url>
+  <wp:base_blog_url>https://thelearningnet.org</wp:base_blog_url>
+  <wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+  <wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>leadership</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Leadership]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>2</wp:term_id><wp:category_nicename>study-guide</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Study Guide]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>maths</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Maths]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>4</wp:term_id><wp:category_nicename>tuition</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Tuition]]></wp:cat_name></wp:category>
+  <wp:term><wp:term_id>91</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>primary-menu</wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name></wp:term>
+  <wp:term><wp:term_id>92</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>footer-menu</wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name></wp:term>
+  <item>
+    <title>Home</title>
+    <link>https://thelearningnet.org/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1001</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1001</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>home</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Online tuition programmes</title>
+    <link>https://thelearningnet.org/programmes/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1002</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Explore personalised learning support from Key Stage 2 through IGCSE and A-Level.</p>
+<div class="grid-3">
+<div class="card"><h3>Homeschooling</h3><p><a href="https://thelearningnet.org/homeschooling/">View programme</a></p></div>
+<div class="card"><h3>1-to-1 Tuition</h3><p><a href="https://thelearningnet.org/one-to-one/">View programme</a></p></div>
+<div class="card"><h3>GCSE &amp; IGCSE</h3><p><a href="https://thelearningnet.org/gcse-igcse/">View programme</a></p></div>
+<div class="card"><h3>Key Stage 2</h3><p><a href="https://thelearningnet.org/ks2/">View programme</a></p></div>
+<div class="card"><h3>Key Stage 3</h3><p><a href="https://thelearningnet.org/ks3/">View programme</a></p></div>
+<div class="card"><h3>12-week Crash Course</h3><p><a href="https://thelearningnet.org/crash-course/">View programme</a></p></div>
+</div>
+<div class="card" style="margin-top:1.4rem"><h3>Related pages</h3>
+<p><a href="https://thelearningnet.org/registration/">Registration</a> · <a href="https://thelearningnet.org/crash-course/">12-week crash course</a> · <a href="https://thelearningnet.org/safeguarding/">Safeguarding</a> · <a href="https://thelearningnet.org/how-it-works/">How it works</a> · <a href="https://thelearningnet.org/faq/">FAQs</a> · <a href="https://thelearningnet.org/contact/">Contact us</a></p></div>
+<div class="next-step">
+  <div>
+    <h2>Not sure which programme fits?</h2>
+    <p>Tell us about the learner and we will help you choose the right support.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1002</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>programmes</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Learning and exam resources</title>
+    <link>https://thelearningnet.org/resources/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1003</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Find classroom guidance, exam-board materials, study articles and answers to common questions.</p>
+<h2>Student and family resources</h2>
+<div class="grid-2">
+<div class="card"><h3>Google Classroom Guide</h3><p>Learn how to sign in, join a class and submit assignments.</p><p><a href="https://thelearningnet.org/classroom-guide/">Open guide</a></p></div>
+<div class="card"><h3>Study Resources</h3><p>Find official specifications, past papers and mark schemes.</p><p><a href="https://thelearningnet.org/useful-links/">View resources</a></p></div>
+<div class="card"><h3>Study Articles</h3><p>Read practical guidance for revision and exam preparation.</p><p><a href="https://thelearningnet.org/blog/">Read articles</a></p></div>
+<div class="card"><h3>Frequently Asked Questions</h3><p>Get clear answers about lessons, enrolment and technology.</p><p><a href="https://thelearningnet.org/faq/">View FAQs</a></p></div>
+</div>
+<div class="next-step">
+  <div>
+    <h2>Need help finding the right material?</h2>
+    <p>Share the qualification, subject and exam board so the team can point you in the right direction.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1003</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>resources</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Your 12-week fast track to exam confidence</title>
+    <link>https://thelearningnet.org/crash-course/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1004</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><span class="eyebrow">IGCSE &amp; A-Level crash course</span></p>
+<p class="lead">Structured, high-impact online revision for school students, homeschoolers and private candidates who need clarity before exams.</p>
+<div class="poster-frame"><img src="{{THEME_URL}}/assets/images/crash-course-poster.png" alt="12-week crash course poster"></div>
+<h2>12 weeks of focused revision</h2>
+<p>iGCSE &amp; A-Level online revision classes — ask about the next available intake.</p>
+<img class="page-media" src="{{THEME_URL}}/assets/images/teen-studying.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<h2>Why a 12-week course?</h2>
+<p>When exam season is approaching, a defined plan can turn an overwhelming syllabus into manageable weekly priorities. The course focuses attention on high-value topics, past papers and the techniques needed under timed conditions.</p>
+<h2>What students work on</h2>
+<ul>
+<li>Master key topics in the chosen subjects</li>
+<li>Practise past papers and receive expert feedback</li>
+<li>Learn exam strategies and time-management skills</li>
+<li>Build confidence before high-stakes assessments</li>
+</ul>
+<img class="page-media" src="{{THEME_URL}}/assets/images/maths-study.jpg" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<h2>What’s included</h2>
+<div class="grid-3">
+<div class="card"><h3>Focused revision classes</h3><p>Subject-specific sessions prioritise the most important gaps.</p></div>
+<div class="card"><h3>Weekly mock tests</h3><p>Regular practice is followed by personalised feedback.</p></div>
+<div class="card"><h3>Revision notes</h3><p>Exam-focused resources support independent study between lessons.</p></div>
+<div class="card"><h3>Live 1-to-1 sessions</h3><p>Individual guidance keeps the course responsive to the learner.</p></div>
+<div class="card"><h3>Resource library</h3><p>Students can revisit supporting materials throughout the course.</p></div>
+<div class="card"><h3>Flexible online access</h3><p>Join from home, including as a private or homeschooling candidate.</p></div>
+</div>
+<h2>Upcoming intakes</h2>
+<h3>Ask about the next available 12-week intake</h3>
+<p>Intake dates are confirmed according to the learner’s exam series and subject availability. Contact us with the qualification, board and expected exam date.</p>
+<h2>Tuition</h2>
+<h3>Tuition from  39.50</h3>
+<p>1-to-1 tutoring like this typically costs £40–50 an hour — ours starts at  39.50.</p>
+<div class="cta-row">
+<a class="btn btn-gold" href="https://thelearningnet.org/registration/">Enrol now →</a>
+</div><div class="next-step">
+  <div>
+    <h2>Reserve a place on the next intake.</h2>
+    <p>Tell us the subjects, exam board and examination date so we can confirm the right starting point.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1004</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>crash-course</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>How it works</title>
+    <link>https://thelearningnet.org/how-it-works/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1005</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="card" style="margin-bottom:2rem"><p><strong>The original live page could not be retrieved.</strong> This page gives the verified starting steps while the full content is being restored.</p></div>
+<div class="steps">
+<div class="step"><h3>Choose a plan</h3><p>Pick weekly, biweekly or monthly lessons.</p></div>
+<div class="step"><h3>Meet the tutor</h3><p>We match a tutor to the learner’s needs.</p></div>
+<div class="step"><h3>Confirm and pay</h3><p>A parent confirms the arrangements and completes payment.</p></div>
+<div class="step"><h3>Begin lessons</h3><p>Join live 1-to-1 lessons from home.</p></div>
+</div>
+<div class="cta-row">
+<a class="btn btn-gold" href="https://thelearningnet.org/registration/">Begin enrolment →</a>
+</div><div class="next-step">
+  <div>
+    <h2>Ready for the next step?</h2>
+    <p>Tell us about the learner and we will take it from there.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1005</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>how-it-works</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>About The Learning Net</title>
+    <link>https://thelearningnet.org/about/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1006</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Qualified online tutors supporting families in the UK, UAE and Pakistan.</p>
+<img class="page-media" src="{{THEME_URL}}/assets/images/school-study.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<h2>Who we are</h2>
+<p>The Learning Net is an online tutoring organisation founded by educators with experience across the British curriculum. We support learners at Key Stage 2, Key Stage 3, GCSE, IGCSE, A-Level and beyond, using interactive lessons and carefully prepared resources.</p>
+<p>Our tutors work with school students, homeschooling families and private candidates, delivering structured and engaging sessions that build knowledge, skills and confidence. All our tutors are DBS-checked, trained in online teaching and committed to supporting every learner.</p>
+<img class="page-media" src="{{THEME_URL}}/assets/images/online-learning.webp" alt="Student learning online from home" loading="lazy">
+<h2>What we believe</h2>
+<div class="grid-3">
+<div class="card"><h3>Every child can achieve</h3><p>Learning becomes rewarding when the right support, time and encouragement are available.</p></div>
+<div class="card"><h3>Quality teaching matters</h3><p>Experienced, subject-specialist tutors make complex ideas clear and memorable.</p></div>
+<div class="card"><h3>Strong foundations last</h3><p>Careful planning at every stage prepares learners for future academic success.</p></div>
+</div>
+<div class="next-step">
+  <div>
+    <h2>Ready to discuss the next step?</h2>
+    <p>Ask about online tutoring, subjects, safeguarding or enrolment.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1006</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>about</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Get in touch with our tutoring team</title>
+    <link>https://thelearningnet.org/contact/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1007</guid>
+    <description></description>
+    <content:encoded><![CDATA[<h2>Get in Touch with Our Team</h2>
+<p>Our team is dedicated to providing you with the best possible experience. Contact us with any questions, concerns, or feedback you may have.</p>
+<div class="contact-grid">
+<div class="contact-card"><h3>Phone</h3><p><a href="tel:+442034886786">(+44) 203 4886 786</a></p></div>
+<div class="contact-card"><h3>Email Address</h3><p><a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a></p></div>
+<div class="contact-card"><h3>Working Hours</h3><p>We understand the importance of support when it comes to your learning journey, which is why we’re here for you 7 days a week. Whether you’re a student or a parent, you can count on us for assistance.</p></div>
+<div class="contact-card"><h3>Social Media</h3><div class="social-row"><a href="https://web.facebook.com/thelearningnetonline" target="_blank" rel="noopener" aria-label="Facebook">Fb</a><a href="https://www.instagram.com/thelearningnet/" target="_blank" rel="noopener" aria-label="Instagram">Ig</a><a href="https://www.linkedin.com/in/the-learning-net-online" target="_blank" rel="noopener" aria-label="LinkedIn">In</a></div></div>
+</div>
+<p>We offer personalised pricing based on your child’s needs. We work with families to make homeschooling affordable.</p>
+<p>Feel free to reach out at any time, and we’ll get back to you as soon as possible!</p>
+<h2>Send an enquiry</h2>
+[contact-form-7 id="14"]]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1007</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>contact</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Welcome back to learning.</title>
+    <link>https://thelearningnet.org/student-login/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1008</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><span class="eyebrow">Student account</span></p>
+<p class="lead">Open your Learning Net classroom to join lessons, find assignments and continue your studies.</p>
+<img class="page-media" src="{{THEME_URL}}/assets/images/teen-studying.webp" alt="Student using a laptop and study notes before an online lesson" loading="lazy">
+<div class="grid-3">
+<div class="card"><h3>Lesson timetable</h3><p>See upcoming sessions with times, subjects and tutor names.</p></div>
+<div class="card"><h3>Learning resources</h3><p>Open revision notes, past papers and session materials.</p></div>
+<div class="card"><h3>Progress updates</h3><p>Follow strengths, targets and next steps from each lesson.</p></div>
+</div>
+<h2>Sign in to Google Classroom</h2>
+<p>Use the Google account provided or approved for your Learning Net lessons.</p>
+<div class="cta-row">
+<a class="btn btn-gold" href="https://classroom.google.com/" target="_blank" rel="noopener">Open Google Classroom →</a>
+<a class="btn btn-outline" href="https://thelearningnet.org/classroom-guide/">Read the sign-in guide</a>
+</div><p><strong>Keep your password private.</strong> The Learning Net will never ask you to send it by email or through a support form.</p>
+<h2>Everything you need in one place</h2>
+<p>A clear overview of lessons, progress, messages and account details.</p>
+<div class="grid-3">
+<div class="card"><h3>My Lessons</h3><p>Join live sessions, view past lessons and download lesson notes.</p></div>
+<div class="card"><h3>Book a Lesson</h3><p>Choose a subject and a time that suits your week.</p></div>
+<div class="card"><h3>Progress Reports</h3><p>See grades, tutor comments and areas to improve.</p></div>
+<div class="card"><h3>Messages</h3><p>Read updates from tutors and the Learning Net team.</p></div>
+<div class="card"><h3>Payments</h3><p>Review invoices and keep payment details up to date.</p></div>
+<div class="card"><h3>Account Settings</h3><p>Update contact details and notification preferences.</p></div>
+</div>
+<h2>Can’t get in?</h2>
+<p>Tell us what is going wrong and the team can help with your account. A parent or guardian should send the request for younger students.</p>
+[ln_form id="account-help"]]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1008</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>student-login</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Enrol with The Learning Net</title>
+    <link>https://thelearningnet.org/registration/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1009</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="steps">
+<div class="step"><h3>Choose a plan</h3><p>Pick weekly, biweekly or monthly lessons.</p></div>
+<div class="step"><h3>Meet the tutor</h3><p>We match a tutor to the learner’s needs.</p></div>
+<div class="step"><h3>Confirm and pay</h3><p>A parent confirms the arrangements and completes payment.</p></div>
+<div class="step"><h3>Begin lessons</h3><p>Join live 1-to-1 lessons from home.</p></div>
+</div>
+<h2>Tuition from  39.50</h2>
+<p>1-to-1 tutoring like this typically costs £40–50 an hour — ours starts at  39.50. Choose a plan online, pay before the first lesson, and pause or cancel anytime with notice.</p>
+<h2>Start your registration</h2>
+[ln_form id="registration"]]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1009</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>registration</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Structured homeschooling support for families in the UK, UAE and Pakistan</title>
+    <link>https://thelearningnet.org/homeschooling/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1010</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Clear routines, expert tutors and organised resources that bring confidence to home education.</p>
+<h2>Homeschooling with the right support</h2>
+<p>The Learning Net supports homeschooling families with personalised online tuition, structured lesson plans and flexible scheduling. Our qualified tutors teach the full British curriculum, helping parents provide consistent, high-quality education from home.</p>
+<h2>How we support your family</h2>
+<div class="grid-3">
+<div class="card"><h3>Structured lesson plans</h3><p>Our tutors follow a clear curriculum with well-defined learning goals for every session.</p></div>
+<div class="card"><h3>Flexible scheduling</h3><p>Lessons can be arranged around family commitments, travel and individual learning needs.</p></div>
+<div class="card"><h3>Experienced tutors</h3><p>Subject specialists support your child’s academic journey with expert guidance.</p></div>
+<div class="card"><h3>Exam preparation</h3><p>Focused revision sessions and past-paper practice help students succeed in GCSE, IGCSE and A-Level exams.</p></div>
+<div class="card"><h3>Progress tracking</h3><p>Regular updates keep parents informed of their child’s progress and achievements.</p></div>
+<div class="card"><h3>Interactive learning</h3><p>Engaging online lessons use modern tools to make learning dynamic and enjoyable.</p></div>
+</div>
+<h2>A partner in your child’s education</h2>
+<p>Whether you need full-time support or help with specific subjects, The Learning Net works alongside your family to make homeschooling a success.</p>
+<div class="next-step">
+  <div>
+    <h2>Start your homeschooling journey.</h2>
+    <p>Tell us about your child’s age, subjects and goals so we can suggest the right support.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1010</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>homeschooling</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>One-to-one online tuition</title>
+    <link>https://thelearningnet.org/one-to-one/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1011</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Expert guidance in a structured and engaging learning environment, whether your child needs extra support or a greater challenge.</p>
+<img class="page-media" src="{{THEME_URL}}/assets/images/online-learning.webp" alt="One-to-one online tuition session" loading="lazy">
+<h2>Tailored learning with a dedicated tutor</h2>
+<p>One-to-one tuition gives every learner the undivided attention of an expert tutor. Lessons are adapted to the student’s goals, pace and learning style, making each session focused, effective and encouraging.</p>
+<h2>What to expect from your tuition</h2>
+<div class="grid-2">
+<div class="card"><h3>Personalised lesson plans</h3><p>Lessons are built around your child’s individual needs and curriculum targets.</p></div>
+<div class="card"><h3>Dedicated support</h3><p>Tutors guide each step of the learning process with clear feedback and encouragement.</p></div>
+<div class="card"><h3>Interactive online lessons</h3><p>Lessons use shared whiteboards, quizzes and live discussion to keep learners involved.</p></div>
+<div class="card"><h3>Progress you can see</h3><p>Parents receive regular updates on progress, strengths and next steps.</p></div>
+</div>
+<div class="next-step">
+  <div>
+    <h2>Ready to book a 1-to-1 session?</h2>
+    <p>Share the subject, level and goals so the right tutor can be matched.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1011</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>one-to-one</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>GCSE and IGCSE tuition</title>
+    <link>https://thelearningnet.org/gcse-igcse/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1012</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Expert, subject-focused tuition for GCSE and IGCSE students following AQA, Edexcel, OCR and Cambridge International syllabi.</p>
+<div class="board-logos">
+<img src="{{THEME_URL}}/assets/images/aqa-logo.jpg" alt="AQA" loading="lazy">
+<img src="{{THEME_URL}}/assets/images/edexcel-logo.jpg" alt="Edexcel" loading="lazy">
+<img src="{{THEME_URL}}/assets/images/ocr-logo.jpg" alt="OCR" loading="lazy">
+<img src="{{THEME_URL}}/assets/images/cambridge-logo.jpg" alt="Cambridge International" loading="lazy">
+<img src="{{THEME_URL}}/assets/images/wjec-logo.jpg" alt="WJEC" loading="lazy">
+</div>
+<h2>Targeted support for exam years</h2>
+<p>Our GCSE and IGCSE tutors help students master key topics, practise exam technique and build confidence. Whether your child is aiming for top grades or needs support to catch up, we tailor every lesson to their goals.</p>
+<h2>What the tuition covers</h2>
+<div class="grid-2">
+<div class="card"><h3>Curriculum-aligned lessons</h3><p>Lessons follow the exact specification for the student’s exam board.</p></div>
+<div class="card"><h3>Past-paper practice</h3><p>Regular practice with real exam questions builds familiarity and timing.</p></div>
+<div class="card"><h3>Exam technique</h3><p>Students learn how to interpret command words and structure high-scoring answers.</p></div>
+<div class="card"><h3>Revision planning</h3><p>Tutors help organise revision so every topic is covered before the exam.</p></div>
+</div>
+<h2>Exam boards supported</h2>
+<div class="grid-2">
+<div class="card"><h3>AQA</h3><p>Clear explanations and practice aligned to the AQA specifications.</p></div>
+<div class="card"><h3>Edexcel</h3><p>Structured support for Edexcel GCSE and International GCSE routes.</p></div>
+<div class="card"><h3>OCR</h3><p>Focused tuition that follows the OCR assessment requirements.</p></div>
+<div class="card"><h3>Cambridge International</h3><p>Specialist guidance for Cambridge IGCSE and O Level syllabuses.</p></div>
+</div>
+<div class="next-step">
+  <div>
+    <h2>Strengthen GCSE or IGCSE results.</h2>
+    <p>Tell us the subjects and exam boards so we can match the right tutor.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1012</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>gcse-igcse</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Exam entry and preparation for private candidates</title>
+    <link>https://thelearningnet.org/exam-prep/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1013</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">Guidance from choosing an exam centre through registration, revision and results.</p>
+<h2>Exams supported</h2>
+<ul>
+<li>GCSE</li>
+<li>IGCSE</li>
+<li>A-Level</li>
+<li>International GCSE</li>
+<li>Functional Skills</li>
+<li>AQA</li>
+<li>Edexcel</li>
+<li>Cambridge</li>
+<li>OCR</li>
+<li>WJEC</li>
+</ul>
+<h2>How the service works</h2>
+<ol>
+<li><strong>Send exam details:</strong> Use the website form to confirm the qualification, board, subjects and intended sitting.</li>
+<li><strong>Find an exam centre:</strong> Receive guidance on a registered centre, including London options.</li>
+<li><strong>Complete registration:</strong> Get support with paperwork and deadlines.</li>
+<li><strong>Prepare for the exam:</strong> Use private tuition, revision sessions, past papers and focused materials.</li>
+<li><strong>Sit the exam:</strong> Attend the registered centre on the confirmed date.</li>
+<li><strong>Receive results:</strong> Follow the relevant board and centre process for results and certificates.</li>
+</ol>
+<div class="next-step">
+  <div>
+    <h2>Discuss private-candidate exam entry.</h2>
+    <p>Send the qualification, board, subjects and preferred exam series.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1013</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>exam-prep</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Key Stage 2 online tutoring</title>
+    <link>https://thelearningnet.org/ks2/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1014</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><span class="eyebrow">AGES 7–11 · YEARS 3–6</span></p>
+<p class="lead">Engaging and structured online tuition that lays strong foundations for future academic success.</p>
+<h2>Support through the primary years</h2>
+<p>This is a critical stage for building fluency, curiosity and confidence. Our tutors adapt lessons to each child’s current level while keeping learning clear, active and encouraging.</p>
+<h2>What families can expect</h2>
+<div class="grid-3">
+<div class="card"><h3>Personalised learning</h3><p>We assess strengths and areas for improvement, then tailor each lesson.</p></div>
+<div class="card"><h3>Qualified tutors</h3><p>Experienced tutors deliver Maths, English and Science in an engaging way.</p></div>
+<div class="card"><h3>Assessment preparation</h3><p>Practice builds the skills and confidence needed for school assessments.</p></div>
+<div class="card"><h3>Interactive lessons</h3><p>Online boards, quizzes and real-world examples keep children involved.</p></div>
+<div class="card"><h3>Flexible scheduling</h3><p>Lesson times can fit around the child’s routine.</p></div>
+<div class="card"><h3>Confidence building</h3><p>A supportive 1-to-1 setting gives learners room to ask questions.</p></div>
+</div>
+<h2>Learning from home</h2>
+<p>Students use a secure, easy-to-use online setting from the comfort of home. Clear teaching, guided practice and regular feedback help them understand what they have improved and what to work on next.</p>
+<div class="next-step">
+  <div>
+    <h2>Give your child stronger foundations.</h2>
+    <p>Tell us the year group, subjects and areas where support is needed.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1014</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ks2</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Key Stage 3 online tutoring</title>
+    <link>https://thelearningnet.org/ks3/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1015</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><span class="eyebrow">AGES 11–14 · YEARS 7–9</span></p>
+<p class="lead">Structured online tuition that builds deeper subject knowledge and prepares learners for GCSE success.</p>
+<h2>Support through the secondary transition</h2>
+<p>Key Stage 3 sets the foundation for GCSE. Our tutors help students strengthen core subjects, develop study skills and grow in confidence as expectations rise.</p>
+<h2>What families can expect</h2>
+<div class="grid-3">
+<div class="card"><h3>Personalised learning</h3><p>Tutors adapt lessons to the learner’s level, goals and school curriculum.</p></div>
+<div class="card"><h3>Subject specialists</h3><p>Experienced tutors teach Maths, English and Science with clear explanations.</p></div>
+<div class="card"><h3>Study skills</h3><p>Students learn how to organise notes, revise effectively and manage homework.</p></div>
+<div class="card"><h3>Interactive lessons</h3><p>Quizzes, discussion and guided practice keep learners actively involved.</p></div>
+<div class="card"><h3>Flexible scheduling</h3><p>Lessons can be arranged around school and family routines.</p></div>
+<div class="card"><h3>Progress tracking</h3><p>Regular feedback shows what is improving and what needs more work.</p></div>
+</div>
+<h2>Preparing for GCSE</h2>
+<p>Lessons gradually introduce GCSE-level expectations, so learners move into exam years with stronger knowledge and study habits.</p>
+<div class="next-step">
+  <div>
+    <h2>Build readiness for GCSE.</h2>
+    <p>Share the year group, subjects and areas where support would help most.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1015</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ks3</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Frequently asked questions</title>
+    <link>https://thelearningnet.org/faq/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1016</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="card" style="margin-bottom:2rem"><p><strong>The original live FAQ page could not be retrieved.</strong> Its full answers will be restored when the source is available.</p></div>
+<details>
+<summary>How do I ask about a programme?</summary>
+<p>Use the contact page and include the learner’s age, level, subjects and location.</p>
+</details>
+<details>
+<summary>How do I start?</summary>
+<p>Use the enrolment page or contact the team for the next available step.</p>
+</details>
+<details>
+<summary>Where are lessons available?</summary>
+<p>The Learning Net covers families in the UK, UAE and Pakistan.</p>
+</details>
+<div class="next-step">
+  <div>
+    <h2>Still have questions?</h2>
+    <p>Send them through the contact page and the team will reply.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1016</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>faq</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>How to use Google Classroom</title>
+    <link>https://thelearningnet.org/classroom-guide/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1017</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">The Learning Net uses Google Classroom to organise online sessions, assignments and teacher communication.</p>
+<h2>Getting started</h2>
+<ol>
+<li>Sign in with your student email address.</li>
+<li>Go to the Classroom app or classroom.google.com.</li>
+<li>Click ‘Join class’ and enter the class code.</li>
+<li>Open the ‘Classwork’ tab for assignments and resources.</li>
+<li>Submit work before the due date.</li>
+<li>Check feedback from your tutor.</li>
+</ol>
+<h2>Common questions</h2>
+<details>
+<summary>Do I need a Gmail account?</summary>
+<p>Use the account provided or approved by The Learning Net.</p>
+</details>
+<details>
+<summary>Can parents follow progress?</summary>
+<p>Guardian email summaries may be enabled where appropriate.</p>
+</details>
+<details>
+<summary>What if I forget my login?</summary>
+<p>Contact support@thelearningnet.org for account help.</p>
+</details>
+<details>
+<summary>Is Google Classroom included?</summary>
+<p>It is available to enrolled students as part of the learning setup.</p>
+</details>
+<div class="next-step">
+  <div>
+    <h2>Ready to discuss the next step?</h2>
+    <p>Ask about online tutoring, subjects, safeguarding or enrolment.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div><h2>Ready for your lesson?</h2>
+<p>Sign in with the account approved for your Learning Net class.</p>
+<div class="cta-row">
+<a class="btn btn-gold" href="https://classroom.google.com/" target="_blank" rel="noopener">Open Google Classroom →</a>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1017</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>classroom-guide</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Exam-board study resources</title>
+    <link>https://thelearningnet.org/useful-links/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1018</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><span class="eyebrow">USEFUL LINKS</span></p>
+<p class="lead">A practical starting point for specifications, syllabuses, past papers and mark schemes.</p>
+<h2>Cambridge International</h2>
+<p>Use the official Cambridge International website to confirm the syllabus and find relevant past papers and mark schemes for the qualification.</p>
+<h2>Pearson Edexcel</h2>
+<p>Check the official Pearson qualifications resources for current specifications, course materials and assessment resources.</p>
+<h2>AQA</h2>
+<p>Use AQA’s official subject pages to confirm specifications and find past papers and mark schemes.</p>
+<h2>OCR</h2>
+<p>Use OCR’s official qualification pages for specifications, assessment materials and subject updates.</p>
+<h2>Use the correct version</h2>
+<p>Always match the subject, qualification code, exam board and examination series before using a paper or mark scheme.</p>
+<div class="next-step">
+  <div>
+    <h2>Need help choosing resources?</h2>
+    <p>Tell the tutor the exact board and qualification code so the right materials can be selected.</p>
+  </div>
+  <div class="ns-links">
+    <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>
+    <a href="tel:+442034886786">(+44) 203 4886 786</a>
+  </div>
+</div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1018</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>useful-links</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Safeguarding and child protection</title>
+    <link>https://thelearningnet.org/safeguarding/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1019</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p class="lead">The welfare of children and young people is central to every Learning Net lesson, tutor decision and family conversation.</p>
+<h2>Our safeguarding commitment</h2>
+<p>The Learning Net aims to provide a safe, respectful online learning environment. Everyone working with children is expected to act in the child’s best interests, recognise concerns and report them promptly.</p>
+<h2>Designated safeguarding contact</h2>
+<p>Email: <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a></p>
+<p>If a child is in immediate danger, families should contact local emergency services or the relevant child-protection authority first.</p>
+<h2>Safer recruitment and DBS</h2>
+<ul>
+<li>Enhanced DBS checks for tutors</li>
+<li>Verified identity and right to work</li>
+<li>References checked before teaching</li>
+<li>Ongoing training in safeguarding practice</li>
+</ul>
+<h2>Safe online lessons</h2>
+<ul>
+<li>Lessons use approved platforms only</li>
+<li>Parents and guardians may observe sessions</li>
+<li>No private messaging outside approved channels</li>
+<li>Session recordings stored securely where used</li>
+<li>Attendance and engagement are monitored</li>
+<li>Tutors follow a clear code of conduct</li>
+</ul>
+<h2>Recognising and reporting concerns</h2>
+<p>All tutors are trained to recognise signs of abuse, neglect and online risk. Concerns may come from a student, a parent, another tutor or observations during a lesson.</p>
+<p>Any concern is reported to the designated safeguarding lead without delay, and records are kept securely. Families are informed where appropriate and in line with data-protection rules.</p>
+<h2>Responding to a disclosure</h2>
+<ol>
+<li>Listen calmly and without judgement.</li>
+<li>Reassure the child that they were right to tell you.</li>
+<li>Do not promise confidentiality; explain you must share it to keep them safe.</li>
+<li>Record what was said as soon as possible, using the child’s own words.</li>
+<li>Report to the designated safeguarding lead immediately.</li>
+</ol>
+<h2>Raise a safeguarding concern</h2>
+<p>Your details are sent directly to <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a> through The Learning Net website.</p>
+[ln_form id="safeguarding"]
+<h2>Privacy and review</h2>
+<p>Safeguarding records are stored securely and retained only as required by law and child-protection practice. This policy is reviewed when guidance changes or after a safeguarding incident.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1019</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>safeguarding</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Blogs</title>
+    <link>https://thelearningnet.org/blog/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1020</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1020</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>blog</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value><![CDATA[page-blog.php]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Website Terms of Use</title>
+    <link>https://thelearningnet.org/terms/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1021</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>Accepting these terms</h2>
+<p>These Terms of Use govern your access to and use of the Learning Net website and its learning services. By accessing or using the website, enrolling a learner, or booking tuition, you agree to these terms. If you do not agree, please do not use the website or enrol in any programme.</p>
+<h2>Who we are</h2>
+<p>The Learning Net provides online tutoring services for learners at Key Stage 2, Key Stage 3, GCSE, IGCSE, A-Level and beyond. Enrolment is arranged through the website’s registration and contact forms, and lessons are delivered online by qualified tutors.</p>
+<h2>Using the website</h2>
+<p>You agree to use the website lawfully and only for its intended purposes. You must not attempt to disrupt the website, access systems without permission, or misuse any form, login area or communication channel.</p>
+<h2>Tuition and payments</h2>
+<p>Tuition is offered from  39.50 per session. Lesson plans, scheduling and payment arrangements are confirmed with the parent or guardian before lessons begin. A parent or guardian must confirm arrangements and complete payment before the first lesson.</p>
+<h2>Student conduct</h2>
+<p>Students are expected to join lessons on time, behave respectfully and use approved learning platforms responsibly. Parents and guardians may observe sessions.</p>
+<h2>Safeguarding</h2>
+<p>Our safeguarding and child-protection policy applies to all lessons. Concerns can be raised through the safeguarding page or by emailing info@thelearningnet.org.</p>
+<h2>Intellectual property</h2>
+<p>Website content, lesson materials and branding belong to The Learning Net or its licensors and may not be copied, redistributed or reused without permission.</p>
+<h2>Changes to these terms</h2>
+<p>We may update these terms when our services change. The current version is always published on this page.</p>
+<h2>Contact</h2>
+<p>Questions about these terms: <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1021</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>terms</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Copyright Notice</title>
+    <link>https://thelearningnet.org/copyright/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1022</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>Copyright</h2>
+<p>All content on this website — including text, images, lesson materials, graphics and branding — is the property of The Learning Net or its content suppliers and is protected by UK and international copyright law.</p>
+<h2>Permitted use</h2>
+<p>You may view, download and print pages from the website for your own personal, non-commercial use, provided you do not modify the content and you keep all copyright notices intact.</p>
+<h2>Restrictions</h2>
+<p>You may not reproduce, distribute, publish, transmit or create derivative works from website content without our prior written permission, except as permitted by law.</p>
+<h2>Reporting infringement</h2>
+<p>If you believe content on this website infringes your copyright, contact <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a> with details of the material concerned.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1022</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>copyright</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Disclaimer</title>
+    <link>https://thelearningnet.org/disclaimer/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1023</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>General information only</h2>
+<p>Content on this website — including study articles, revision guidance and programme descriptions — is provided for general information and does not constitute professional, legal or financial advice.</p>
+<h2>No guaranteed outcomes</h2>
+<p>While our tutors work to support every learner, The Learning Net does not guarantee particular grades, exam results or academic outcomes. Progress depends on many factors, including the learner’s engagement and practice.</p>
+<h2>External links</h2>
+<p>Links to external websites, including exam-board resources and Google Classroom, are provided for convenience. We are not responsible for the content or availability of external sites.</p>
+<h2>Accuracy</h2>
+<p>We aim to keep information accurate and up to date, but we make no warranties about completeness or reliability. Programme details, intake dates and pricing are confirmed at enrolment.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1023</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>disclaimer</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Cookie Policy</title>
+    <link>https://thelearningnet.org/cookies/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1024</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>What cookies are</h2>
+<p>Cookies are small text files stored on your device when you visit a website. They help the site remember your preferences and understand how visitors use it.</p>
+<h2>Cookies we use</h2>
+<p><strong>Strictly necessary cookies</strong> — required for the website to work, including remembering your cookie choice.</p>
+<p><strong>Functional cookies</strong> — remember preferences such as display settings.</p>
+<p><strong>Analytics cookies</strong> — help us understand which pages visitors find useful, so we can improve the website. These are only set if you accept them.</p>
+<h2>Your choices</h2>
+<p>When you first visit the website you can accept or reject non-essential cookies using the cookie banner. You can also change your browser settings to block or delete cookies at any time.</p>
+<h2>Contact</h2>
+<p>Questions about cookies: <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1024</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>cookies</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Terms of Service</title>
+    <link>https://thelearningnet.org/terms-of-service/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1025</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>Our services</h2>
+<p>The Learning Net provides online 1-to-1 tuition, structured homeschooling support, exam preparation and revision courses for learners following the British curriculum.</p>
+<h2>Enrolment and payment</h2>
+<p>Enrolment begins through the website’s registration or contact forms. A parent or guardian confirms the lesson plan and completes payment before the first lesson. Tuition is offered from  39.50 per session.</p>
+<h2>Lessons</h2>
+<p>Lessons are delivered online at agreed times. If a lesson needs to be rearranged, please give as much notice as possible so an alternative can be found.</p>
+<h2>Cancellation</h2>
+<p>Plans can be paused or cancelled with reasonable notice. Refunds for unused lessons are handled fairly and confirmed in writing.</p>
+<h2>Acceptable use</h2>
+<p>Students, parents and guardians must use lessons and learning platforms respectfully and lawfully, and must not share login details or record sessions without permission.</p>
+<h2>Limitation of liability</h2>
+<p>To the extent permitted by law, The Learning Net is not liable for indirect losses arising from use of the website or services. Nothing in these terms limits liability that cannot be limited under UK law.</p>
+<h2>Contact</h2>
+<p>Questions about these terms: <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1025</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>terms-of-service</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Data Protection Policy</title>
+    <link>https://thelearningnet.org/data-protection/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1026</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>How we handle personal data</h2>
+<p>The Learning Net collects and uses personal data — such as names, contact details and lesson information — to arrange tuition, communicate with families and keep learners safe. We handle data in line with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.</p>
+<h2>What we collect</h2>
+<p>We collect details you provide through registration, contact and safeguarding forms, as well as lesson records needed to deliver and monitor tuition.</p>
+<h2>How we use it</h2>
+<p>Personal data is used to arrange lessons, match tutors, communicate with parents and guardians, process payments and meet safeguarding and legal duties. We do not sell personal data.</p>
+<h2>Keeping data safe</h2>
+<p>Access to personal data is limited to staff and tutors who need it. Safeguarding records are stored securely and kept only as long as required by law and child-protection practice.</p>
+<h2>Your rights</h2>
+<p>You can ask for a copy of your data, ask for corrections, or ask us to delete data we no longer need. Contact <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a> to exercise these rights.</p>
+<h2>Complaints</h2>
+<p>If you are unhappy with how we handle your data, you can complain to the UK Information Commissioner’s Office (ICO).</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1026</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>data-protection</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Privacy Policy</title>
+    <link>https://thelearningnet.org/privacy/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=1027</guid>
+    <description></description>
+    <content:encoded><![CDATA[<p><strong>Last updated: 15 September 2025</strong></p>
+<h2>What this policy covers</h2>
+<p>This policy explains what personal information The Learning Net collects through this website, how it is used, and the choices you have.</p>
+<h2>Information we collect</h2>
+<p>When you use our forms — registration, contact, safeguarding or account help — we collect the details you enter, such as names, email addresses, phone numbers and information about the learner. We also collect basic technical information needed to run the website securely.</p>
+<h2>How we use information</h2>
+<p>We use information to respond to enquiries, arrange tuition, keep learners safe and improve our services. Form submissions are emailed to our team at info@thelearningnet.org.</p>
+<h2>Cookies</h2>
+<p>We use a small number of cookies to make the website work and, with your consent, to understand how it is used. See our Cookie Policy for details.</p>
+<h2>Sharing</h2>
+<p>We share personal information only where needed to deliver tuition, meet legal duties or protect a child’s safety. We never sell personal data.</p>
+<h2>Your rights and contact</h2>
+<p>You can request access to, correction of, or deletion of your personal data at any time by emailing <a href="mailto:info@thelearningnet.org">info@thelearningnet.org</a>.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1027</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>privacy</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Empowering Students Through Leadership</title>
+    <link>https://thelearningnet.org/post-leadership/</link>
+    <pubDate>Thu, 02 Mar 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2001</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/teen-studying.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 2 March 2023</em></p>
+<p>The live article carries this title and the full IGCSE revision guide below.</p>
+<h2>Understanding the IGCSE exam format</h2>
+<p>IGCSE exams are a crucial milestone. Strong preparation begins by understanding how each subject is assessed. Papers may include multiple-choice questions, structured written responses, data analysis, case studies and practical assessments.</p>
+<p>Check the syllabus, number of papers, weighting and question types before planning revision.</p>
+<h2>Best IGCSE revision resources</h2>
+<p>Useful resources include textbooks, online courses, interactive apps and dedicated revision websites. The Learning Net supports students with IGCSE and O Level textbooks, workbooks, revision notes, video tutorials, quizzes and guided lessons.</p>
+<ul>
+<li>Gojimo for quick subject quizzes</li>
+<li>Quizlet for customisable flashcards</li>
+<li>Brainscape for spaced flashcard practice</li>
+</ul>
+<h2>Use past papers effectively</h2>
+<ol>
+<li><strong>Simulate exam conditions:</strong> Complete papers under timed conditions.</li>
+<li><strong>Review mark schemes:</strong> Study how marks are awarded.</li>
+<li><strong>Identify weak areas:</strong> Return to topics where marks were lost.</li>
+<li><strong>Practise regularly:</strong> Use several papers to build confidence and familiarity.</li>
+</ol>
+<h2>Proven study techniques</h2>
+<h3>Active recall and mind maps</h3>
+<ul>
+<li>Use flashcards to retrieve key ideas</li>
+<li>Create mind maps to connect related topics</li>
+</ul>
+<h3>Group study and discussion</h3>
+<p>Explain difficult ideas to peers; teaching someone else can expose gaps and strengthen understanding.</p>
+<h3>Exam strategy</h3>
+<ul>
+<li>Allocate time according to the marks available</li>
+<li>Use relevant real-world examples where appropriate</li>
+<li>Respond directly to command words such as explain, evaluate and compare</li>
+</ul>
+<h2>Additional support</h2>
+<p>If a topic continues to feel difficult, one-to-one tuition can provide precise explanations, guided practice and feedback.</p>
+<h2>Final thoughts</h2>
+<p>Successful IGCSE revision combines a clear plan, consistent practice and resources matched to the exact specification. Stay committed, review mistakes and build confidence one topic at a time.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2001</wp:post_id>
+    <wp:post_date>2023-03-02 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-03-02 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-leadership</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="leadership"><![CDATA[Leadership]]></category>
+  </item>
+  <item>
+    <title>The 12-week crash course: a fast track to exam confidence</title>
+    <link>https://thelearningnet.org/post-crash-course/</link>
+    <pubDate>Wed, 12 Nov 2025 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2002</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/maths-study.jpg" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 12 November 2025</em></p>
+<p>A structured, focused and expert-led revision programme can bring clarity when the examination window is approaching.</p>
+<h2>Why the final 12 weeks matter</h2>
+<p>The final 12 weeks before an examination should be about clarity, confidence and precision. A focused plan brings order to the syllabus, so every study session serves a purpose.</p>
+<h2>How the crash course is structured</h2>
+<p>Each week targets specific topics, assessed through practice questions and short tests. This structure supports GCSE, IGCSE and A-Level learners, including private and homeschooling candidates.</p>
+<h2>Subjects covered</h2>
+<p>The crash course supports common subjects including English, Mathematics, Physics, Chemistry and Biology. Ask about other subjects during enrolment.</p>
+<h2>What students gain</h2>
+<ul>
+<li>A defined weekly revision plan</li>
+<li>Regular mock tests with personalised feedback</li>
+<li>Targeted revision notes and exam-focused materials</li>
+<li>Live 1-to-1 sessions for precise guidance</li>
+<li>Flexible online access from home</li>
+</ul>
+<h2>A smarter route to exam day</h2>
+<p>Twelve weeks of deliberate, well-organised revision can rebuild momentum and confidence before the examination window opens.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2002</wp:post_id>
+    <wp:post_date>2025-11-12 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2025-11-12 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-crash-course</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="study-guide"><![CDATA[Study Guide]]></category>
+  </item>
+  <item>
+    <title>Best way to prepare for IGCSE Maths</title>
+    <link>https://thelearningnet.org/post-igcse-maths/</link>
+    <pubDate>Fri, 29 Sep 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2003</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/school-study.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 29 September 2023</em></p>
+<p>A clear strategy builds both confidence and accuracy in IGCSE Mathematics.</p>
+<h2>1. Know your syllabus</h2>
+<p>The Edexcel and Cambridge IGCSE Mathematics syllabuses set out exactly what you must learn. Read them carefully before you begin.</p>
+<h2>2. Practise past papers</h2>
+<p>Past papers reveal the style, difficulty and timing of the real exam. Use them under timed conditions to build confidence.</p>
+<h2>3. Use revision notes</h2>
+<p>Condensed notes make recall faster. The Learning Net provides free IGCSE notes that summarise the most important points.</p>
+<h2>4. Ask for help</h2>
+<p>If a concept remains unclear, work through it with a tutor or teacher before moving on.</p>
+<h2>5. Keep going</h2>
+<p>Steady effort matters more than last-minute intensity. Review small sections regularly and track your progress.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2003</wp:post_id>
+    <wp:post_date>2023-09-29 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-09-29 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-igcse-maths</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="maths"><![CDATA[Maths]]></category>
+  </item>
+  <item>
+    <title>Best way to study for IGCSEs</title>
+    <link>https://thelearningnet.org/post-study-guide/</link>
+    <pubDate>Fri, 29 Sep 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2004</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/teen-studying.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 29 September 2023</em></p>
+<p>Smart, colourful and exam-focused strategies can outperform long, unfocused study hours.</p>
+<h2>1. Understand your exam</h2>
+<p>Read the syllabus to see exactly which topics will be assessed and how the marks are allocated.</p>
+<h2>2. Create a schedule</h2>
+<p>Plan regular study blocks and balance harder topics with lighter review sessions.</p>
+<h2>3. Use colourful tools</h2>
+<p>Highlighters, colour-coded notes and diagrams make key ideas easier to remember.</p>
+<h2>4. Practise with past papers</h2>
+<p>Work through recent papers under timed conditions, then study the mark scheme to see where marks are earned.</p>
+<h2>5. Stay consistent</h2>
+<p>Short daily sessions build stronger recall than occasional long sessions. Keep notes organised and revisit weak areas.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2004</wp:post_id>
+    <wp:post_date>2023-09-29 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-09-29 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-study-guide</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="study-guide"><![CDATA[Study Guide]]></category>
+  </item>
+  <item>
+    <title>How to tackle tricky A-Level Maths questions</title>
+    <link>https://thelearningnet.org/post-a-level-maths/</link>
+    <pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2005</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/maths-study.jpg" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 19 September 2023</em></p>
+<p>Tricky questions test connected understanding, not only the recall of a formula.</p>
+<h2>1. Deconstruct the question</h2>
+<p>Break each problem into smaller parts. Identify what is given, what is required and which topics are involved.</p>
+<h2>2. Make a plan</h2>
+<p>Decide the order of your working before writing. A short outline saves time and prevents errors.</p>
+<h2>3. Show your working</h2>
+<p>Clear steps earn method marks even when the final answer is wrong, so never skip the reasoning.</p>
+<h2>4. Check your answer</h2>
+<p>Substitute your answer back where possible, or estimate whether the result is reasonable.</p>
+<h2>Final thoughts</h2>
+<p>Deconstructing, planning, showing working and checking can turn an intimidating question into a sequence of manageable decisions.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2005</wp:post_id>
+    <wp:post_date>2023-09-19 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-09-19 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-a-level-maths</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="maths"><![CDATA[Maths]]></category>
+  </item>
+  <item>
+    <title>10 proven tips to boost IGCSE revision success</title>
+    <link>https://thelearningnet.org/post-revision-tips/</link>
+    <pubDate>Wed, 13 Sep 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2006</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/school-study.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 13 September 2023</em></p>
+<p>Use these practical habits to make revision more active, consistent and manageable.</p>
+<h2>1. Start early</h2>
+<p>Begin revision well before the exam season so there is time to revisit difficult topics.</p>
+<h2>2. Set clear goals</h2>
+<p>Define what each session should achieve, such as mastering one topic or completing one past paper.</p>
+<h2>3. Use active recall</h2>
+<p>Test yourself from memory instead of re-reading notes. Flashcards and blank-page recall work well.</p>
+<h2>4. Practise past papers</h2>
+<p>Exam-style questions train timing and reveal the command words examiners use.</p>
+<h2>5. Make a timetable</h2>
+<p>Schedule subjects across the week and include short breaks to stay focused.</p>
+<h2>6. Teach someone else</h2>
+<p>Explaining a concept aloud exposes gaps in understanding.</p>
+<h2>7. Stay organised</h2>
+<p>Keep notes, papers and mark schemes in one place so revision time is not wasted searching.</p>
+<h2>8. Look after yourself</h2>
+<p>Sleep, exercise and regular meals support memory and concentration.</p>
+<h2>9. Review mistakes</h2>
+<p>Keep an error log of questions you got wrong and revisit them until they feel secure.</p>
+<h2>10. Ask for help</h2>
+<p>A tutor, teacher or study partner can explain ideas that remain unclear.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2006</wp:post_id>
+    <wp:post_date>2023-09-13 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-09-13 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-revision-tips</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="study-guide"><![CDATA[Study Guide]]></category>
+  </item>
+  <item>
+    <title>Why one-on-one learning can outperform group classes for IGCSE</title>
+    <link>https://thelearningnet.org/post-one-to-one/</link>
+    <pubDate>Fri, 24 Mar 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2007</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/teen-studying.webp" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 24 March 2023</em></p>
+<p>Focused individual attention can achieve more than larger, one-size-fits-all classes.</p>
+<h2>Personalised attention</h2>
+<p>A 1-to-1 tutor adapts the pace, examples and explanations to the individual learner.</p>
+<h2>Faster progress</h2>
+<p>Lessons target the student’s exact gaps, so less time is spent on material already understood.</p>
+<h2>Flexible scheduling</h2>
+<p>Session times can fit around school, family commitments and the learner’s energy levels.</p>
+<h2>Stronger confidence</h2>
+<p>Students ask questions freely in a private setting and receive immediate, encouraging feedback.</p>
+<h2>Final thoughts</h2>
+<p>For learners who need precise support, 1-to-1 tuition offers a focused route to stronger IGCSE results.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2007</wp:post_id>
+    <wp:post_date>2023-03-24 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-03-24 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-one-to-one</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="tuition"><![CDATA[Tuition]]></category>
+  </item>
+  <item>
+    <title>Ultimate guide to IGCSE revision</title>
+    <link>https://thelearningnet.org/post-igcse-revision/</link>
+    <pubDate>Fri, 03 Mar 2023 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=2008</guid>
+    <description></description>
+    <content:encoded><![CDATA[<img class="page-media" src="{{THEME_URL}}/assets/images/maths-study.jpg" alt="Student studying for exams and building stronger revision habits" loading="lazy">
+<p><em>Published 3 March 2023</em></p>
+<p>The best IGCSE revision combines the right resources with repeated retrieval, past-paper practice and careful review.</p>
+<h2>Choosing the right resources</h2>
+<p>Match every resource to the exact specification and exam board. The Learning Net provides revision notes, video tutorials and guided lessons aligned to popular IGCSE syllabuses.</p>
+<h2>Building a revision plan</h2>
+<p>Divide the syllabus into weekly targets and schedule regular review sessions. A written plan makes progress visible and keeps momentum.</p>
+<h2>Using past papers</h2>
+<p>Complete past papers under timed conditions, then compare answers against the mark scheme to understand how marks are awarded.</p>
+<h2>Active study methods</h2>
+<p>Flashcards, mind maps and teaching a topic aloud all strengthen recall more than passive re-reading.</p>
+<h2>Staying motivated</h2>
+<p>Short goals, regular breaks and a consistent routine help revision stay manageable through the exam season.</p>
+<h2>Final thoughts</h2>
+<p>Effective preparation depends on consistency, accurate materials and honest review of mistakes. Combine revision notes with past-paper practice and seek expert help when a topic stays unclear.</p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2008</wp:post_id>
+    <wp:post_date>2023-03-03 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2023-03-03 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>post-igcse-revision</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="study-guide"><![CDATA[Study Guide]]></category>
+  </item>
+  <item>
+    <title>Home</title>
+    <link>https://thelearningnet.org/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3001</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3001</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3001</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Programmes</title>
+    <link>https://thelearningnet.org/programmes/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3002</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3002</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3002</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/programmes/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Resources</title>
+    <link>https://thelearningnet.org/resources/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3003</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3003</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3003</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/resources/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>12-Week Crash Course</title>
+    <link>https://thelearningnet.org/crash-course/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3004</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3004</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3004</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/crash-course/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>How it works</title>
+    <link>https://thelearningnet.org/how-it-works/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3005</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3005</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3005</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/how-it-works/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>About us</title>
+    <link>https://thelearningnet.org/about/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3006</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3006</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3006</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/about/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Blogs</title>
+    <link>https://thelearningnet.org/blog/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3007</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3007</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3007</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>7</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/blog/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Contact</title>
+    <link>https://thelearningnet.org/contact/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3008</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3008</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3008</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>8</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/contact/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Homeschooling</title>
+    <link>https://thelearningnet.org/homeschooling/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3009</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3009</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3009</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/homeschooling/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>1-to-1 Tuition</title>
+    <link>https://thelearningnet.org/one-to-one/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3010</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3010</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3010</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/one-to-one/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>GCSE &amp; IGCSE</title>
+    <link>https://thelearningnet.org/gcse-igcse/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3011</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3011</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3011</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/gcse-igcse/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Key Stage 2</title>
+    <link>https://thelearningnet.org/ks2/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3012</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3012</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3012</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/ks2/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Key Stage 3</title>
+    <link>https://thelearningnet.org/ks3/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3013</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3013</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3013</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/ks3/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Safeguarding</title>
+    <link>https://thelearningnet.org/safeguarding/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3014</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3014</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3014</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/safeguarding/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>FAQs</title>
+    <link>https://thelearningnet.org/faq/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3015</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3015</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3015</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>7</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/faq/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Privacy Policy</title>
+    <link>https://thelearningnet.org/privacy/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3016</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3016</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3016</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>8</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/privacy/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Cookie Policy</title>
+    <link>https://thelearningnet.org/cookies/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3017</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3017</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3017</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>9</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/cookies/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Terms of Service</title>
+    <link>https://thelearningnet.org/terms-of-service/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3018</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3018</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3018</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>10</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/terms-of-service/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title>Data Protection</title>
+    <link>https://thelearningnet.org/data-protection/</link>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://thelearningnet.org/?p=3019</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3019</wp:post_id>
+    <wp:post_date>2026-09-30 09:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-09-30 09:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>3019</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>11</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_type</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object_id</wp:meta_key>
+        <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_object</wp:meta_key>
+        <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_target</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_classes</wp:meta_key>
+        <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_xfn</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+        <wp:meta_key>_menu_item_url</wp:meta_key>
+        <wp:meta_value><![CDATA[https://thelearningnet.org/data-protection/]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+</channel>
+</rss>
